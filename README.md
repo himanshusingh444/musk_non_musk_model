@@ -6,19 +6,17 @@ Here, I created an ANN structure that can predict whether given chemical is musk
 Prediction of a Chemical whether it is musk or non musk, using Artificial Neural Network
 
 # Requirement 
-*Anaconda navigator 2019.10
-*spyder(python 3.7)
-*python 3.7
-*keras library
+* Anaconda navigator 2019.10
+* spyder(python 3.7)
+* python 3.7
+* keras library
 
 
 # Installation Steps
 
-*Open Spyder(IDE)
-
-*Set the file path (project folder)as root
-
-*Run the program
+* Spyder(IDE) setup
+* Set the file path (project folder)as root
+* Run the program
 
 # Tools Used
 * Data Analysis and Preprocessing:
