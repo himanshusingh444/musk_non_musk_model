@@ -13,8 +13,11 @@ Prediction of a Chemical whether it is musk or non musk, using Artificial Neural
 
 
 # Installation Steps
-*Openspyder(IDE)
+
+*Open Spyder(IDE)
+
 *Set the file path (project folder)as root
+
 *Run the program
 
 # Tools Used
