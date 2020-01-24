@@ -5,15 +5,11 @@ Here, I created an ANN structure that can predict whether given chemical is musk
 # Objective
 Prediction of a Chemical whether it is musk or non musk, using Artificial Neural Network
 
-# Resources
-* Dataset: https://drive.google.com/file/d/1pZhzZnaPi74aKCQImSPrzrTxWzVeE0qv/view?usp=sharing
-* Anaconda navigator 2019.10 :https://www.anaconda.com/distribution/ 3.7 :
-* Spyder: https://www.spyder-ide.org
-* pandas: https://pandas.pydata.org/pandas-docs/stable/
-* Numpy: https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
-* Scikit-learn: http://scikit-learn.org/stable/
-* Matplotlib: https://matplotlib.org/2.1.0/index.html
-* Keras: https://keras.io/
+# Requirement 
+Need to enter
+
+# Installation Steps
+Add this
 
 # Tools Used
 * Data Analysis and Preprocessing:
@@ -31,7 +27,7 @@ Prediction of a Chemical whether it is musk or non musk, using Artificial Neural
 - Output Layer with 1 Neurons and “Sigmoid” Activation Function
 - Number of epochs 80 and batch size 20
 
-# Result and Observations
+# Result and Observations:
 ## Accuracy Graph
 ![accuracy graph](https://user-images.githubusercontent.com/56613849/73051681-3eaad680-3ea9-11ea-99dc-0d1a299f5cbd.jpg)
 ## Accuracy,precision,f1_score
